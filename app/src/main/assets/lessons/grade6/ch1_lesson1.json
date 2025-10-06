@@ -1,0 +1,61 @@
+{
+  "schema": "zarmath.lesson.v1",
+  "generated_at": "2025-10-06",
+  "localization": {
+    "lang": "fa",
+    "rtl": true
+  },
+  "lesson_id": "g6_ch1_l1",
+  "grade": 6,
+  "chapter_id": 1,
+  "title": "نسبت و تناسب (حل سریع و قابل‌توضیح)",
+  "core_rule": "تناسب: ضرب چلیپایی مقادیر متناظر مساوی است.",
+  "estimated_duration_min": 12,
+  "phases": {
+    "diagnose": {
+      "questions": [
+        "اگر 2 سیب 6هزار است، 5 سیب؟",
+        "x/8 = 3/4 ؛ x چند است؟ (بدون حساب دقیق، راه را بگو)"
+      ]
+    },
+    "concrete": {
+      "description": "شربت و آب با نسبت ۱:۲؛ مخلوط بساز و برچسب بزن.",
+      "image_path": "grade6/images/ch1_concrete.webp"
+    },
+    "pictorial": {
+      "description": "جدول تناسب (T-Chart): مقدار/قیمت؛ پیکان‌های × و ÷ تا نرخ واحد.",
+      "image_path": "grade6/images/ch1_pictorial.webp"
+    },
+    "abstract": {
+      "description": "a/b = c/d ⇒ a·d = b·c ؛ نرخ واحد (price per 1)."
+    },
+    "practice": {
+      "guided": [
+        {
+          "prompt": "3 دفتر = 90هزار → 5 دفتر؟",
+          "hint": "اول نرخ واحد را پیدا کن."
+        },
+        {
+          "prompt": "2/3 = x/12",
+          "hint": "ضرب چلیپایی و بررسی معقول‌بودن."
+        }
+      ],
+      "independent": [
+        "x/8 = 3/4",
+        "در نقشه با مقیاس 1:5000، ۳ سانت چند متر است؟"
+      ]
+    },
+    "debrief": "چه وقت تناسب برقرار نیست؟ (نرخ ثابت نداریم)",
+    "deepen": "یک مثال مقیاس متفاوت حل کن و با نرخ واحد چک کن."
+  },
+  "hints": {
+    "h1": "اول نرخِ واحد را پیدا کن.",
+    "h2": "T-Chart بکش.",
+    "h3": "ضربِ چلیپایی و بررسی معقول‌بودن."
+  },
+  "common_error": {
+    "description": "رفتن مستقیم به فرمول بدون معنا",
+    "correction": "ابتدا رساندن به ۱ (نرخ واحد) و سپس تعمیم."
+  },
+  "materials": "خط‌کش برای مقیاس؛ جدول دو‌ستونی."
+}

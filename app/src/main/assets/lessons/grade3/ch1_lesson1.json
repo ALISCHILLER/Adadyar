@@ -1,0 +1,61 @@
+{
+  "schema": "zarmath.lesson.v1",
+  "generated_at": "2025-10-06",
+  "localization": {
+    "lang": "fa",
+    "rtl": true
+  },
+  "lesson_id": "g3_ch1_l1",
+  "grade": 3,
+  "chapter_id": 1,
+  "title": "معنای ضرب: آرایه و گروه‌های برابر",
+  "core_rule": "ضرب یعنی جمعِ تکراریِ گروه‌های برابر.",
+  "estimated_duration_min": 12,
+  "phases": {
+    "diagnose": {
+      "questions": [
+        "4+4+4 = ؟",
+        "3×? = 12 (گروه‌های چندتایی؟)"
+      ]
+    },
+    "concrete": {
+      "description": "۳ بشقاب؛ هر بشقاب ۴ دکمه → شمارش گروهی.",
+      "image_path": "grade3/images/ch1_concrete.webp"
+    },
+    "pictorial": {
+      "description": "آرایهٔ ۳×۴ نقطه (۳ ردیف، ۴ ستون)؛ نشان‌دادن جابجایی.",
+      "image_path": "grade3/images/ch1_pictorial.webp"
+    },
+    "abstract": {
+      "description": "3×4 = 4+4+4 = 12 ؛ خاصیت جابجایی."
+    },
+    "practice": {
+      "guided": [
+        {
+          "prompt": "5×3 = ?",
+          "hint": "آرایه بکش و بخوان."
+        },
+        {
+          "prompt": "4×6 = ?",
+          "hint": "به 2×6 + 2×6 تجزیه کن."
+        }
+      ],
+      "independent": [
+        "3×5",
+        "7×8"
+      ]
+    },
+    "debrief": "دو راه حل نشان بده (آرایه/جمع).",
+    "deepen": "7×8 را به 7×(4+4) تبدیل کن (یا 5+2)."
+  },
+  "hints": {
+    "h1": "چند گروه داری؟ هرکدام چندتا؟",
+    "h2": "آرایه بکش.",
+    "h3": "به جمع‌های آسان‌تر بشکن."
+  },
+  "common_error": {
+    "description": "حفظ جدول بدون درک",
+    "correction": "اجبار به ساخت/خواندن آرایه قبل از محاسبه."
+  },
+  "materials": "درپوش بطری/حبوبات برای گروه‌بندی، کاغذ نقطه‌ای."
+}

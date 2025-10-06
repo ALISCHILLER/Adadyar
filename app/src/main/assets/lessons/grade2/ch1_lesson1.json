@@ -1,0 +1,61 @@
+{
+  "schema": "zarmath.lesson.v1",
+  "generated_at": "2025-10-06",
+  "localization": {
+    "lang": "fa",
+    "rtl": true
+  },
+  "lesson_id": "g2_ch1_l1",
+  "grade": 2,
+  "chapter_id": 1,
+  "title": "جمعِ دو رقمی با انتقال",
+  "core_rule": "هر ۱۰ تا، ده‌تایی می‌شود و می‌رود بالا.",
+  "estimated_duration_min": 12,
+  "phases": {
+    "diagnose": {
+      "questions": [
+        "27+2 را فقط بنویس.",
+        "27+9 را فقط بنویس."
+      ]
+    },
+    "concrete": {
+      "description": "۱۲ مهره؛ هر ۱۰ تا را داخل یک لیوان (ده‌تایی) بریز.",
+      "image_path": "grade2/images/ch1_concrete.webp"
+    },
+    "pictorial": {
+      "description": "ستون‌های یکان/دهگان؛ مربع کوچک انتقال بالای دهگان.",
+      "image_path": "grade2/images/ch1_pictorial.webp"
+    },
+    "abstract": {
+      "description": "27+8 → یکان: 7+8=15 → 5 پایین، 1 بالا."
+    },
+    "practice": {
+      "guided": [
+        {
+          "prompt": "27+8",
+          "hint": "اول یکان‌ها؛ ده کامل شد؟ بالا ببر."
+        },
+        {
+          "prompt": "46+9",
+          "hint": "ستون‌ها را زیر هم نگه دار."
+        }
+      ],
+      "independent": [
+        "38+7",
+        "56+8"
+      ]
+    },
+    "debrief": "اگر انتقال را ننویسیم چه می‌شود؟",
+    "deepen": "تقریب: 27≈30 ، 8≈10 → 40 (پاسخت نزدیک ۴۰ است؟)"
+  },
+  "hints": {
+    "h1": "اول یکان‌ها.",
+    "h2": "ده کامل شد؟ بالا ببر.",
+    "h3": "ستون‌ها را زیر هم نگه دار."
+  },
+  "common_error": {
+    "description": "جابجایی ستون‌ها / فراموشی انتقال",
+    "correction": "خط عمودی برای ستون‌ها و مربع انتقال با رنگ متفاوت."
+  },
+  "materials": "مداد رنگی/خط‌کش برای ستون‌بندی و مربع انتقال."
+}

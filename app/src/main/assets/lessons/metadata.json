@@ -1,0 +1,50 @@
+{
+  "schema": "zarmath.lesson.manifest.v1",
+  "generated_at": "2025-10-06",
+  "language": "fa",
+  "rtl": true,
+  "lessons": [
+    {
+      "lesson_id": "g1_ch1_l1",
+      "grade": 1,
+      "chapter_id": 1,
+      "title": "شمارش تا ۱۰ و جمعِ سازندهٔ ۱۰",
+      "file": "assets/lessons/grade1/ch1_lesson1.json"
+    },
+    {
+      "lesson_id": "g2_ch1_l1",
+      "grade": 2,
+      "chapter_id": 1,
+      "title": "جمعِ دو رقمی با انتقال",
+      "file": "assets/lessons/grade2/ch1_lesson1.json"
+    },
+    {
+      "lesson_id": "g3_ch1_l1",
+      "grade": 3,
+      "chapter_id": 1,
+      "title": "معنای ضرب: آرایه و گروه‌های برابر",
+      "file": "assets/lessons/grade3/ch1_lesson1.json"
+    },
+    {
+      "lesson_id": "g4_ch1_l1",
+      "grade": 4,
+      "chapter_id": 1,
+      "title": "کسرهای معادل و ارتباط با اعشار",
+      "file": "assets/lessons/grade4/ch1_lesson1.json"
+    },
+    {
+      "lesson_id": "g5_ch1_l1",
+      "grade": 5,
+      "chapter_id": 1,
+      "title": "درصدِ مقدار و ارتباط با کسر/اعشار",
+      "file": "assets/lessons/grade5/ch1_lesson1.json"
+    },
+    {
+      "lesson_id": "g6_ch1_l1",
+      "grade": 6,
+      "chapter_id": 1,
+      "title": "نسبت و تناسب (حل سریع و قابل‌توضیح)",
+      "file": "assets/lessons/grade6/ch1_lesson1.json"
+    }
+  ]
+}

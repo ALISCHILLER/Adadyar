@@ -1,0 +1,61 @@
+{
+  "schema": "zarmath.lesson.v1",
+  "generated_at": "2025-10-06",
+  "localization": {
+    "lang": "fa",
+    "rtl": true
+  },
+  "lesson_id": "g5_ch1_l1",
+  "grade": 5,
+  "chapter_id": 1,
+  "title": "درصدِ مقدار و ارتباط با کسر/اعشار",
+  "core_rule": "درصد یعنی سهم از صد؛ ضرب در کسر.",
+  "estimated_duration_min": 12,
+  "phases": {
+    "diagnose": {
+      "questions": [
+        "25% از 80؟",
+        "40% را به اعشار بنویس."
+      ]
+    },
+    "concrete": {
+      "description": "جدول ۱۰×۱۰؛ ۴۰ خانه از ۱۰۰ را رنگ کن → 0.4.",
+      "image_path": "grade5/images/ch1_concrete.webp"
+    },
+    "pictorial": {
+      "description": "نوار ۱۰۰ بخشی؛ نشان‌دادن 15% و 25%.",
+      "image_path": "grade5/images/ch1_pictorial.webp"
+    },
+    "abstract": {
+      "description": "30% از 50 = 0.3×50 = 15 ؛ 15% = 15/100."
+    },
+    "practice": {
+      "guided": [
+        {
+          "prompt": "20% از 60",
+          "hint": "ابتدا 10% را پیدا کن، سپس دو برابر کن."
+        },
+        {
+          "prompt": "12.5% از 32",
+          "hint": "¼ را پیدا کن."
+        }
+      ],
+      "independent": [
+        "15% از 200",
+        "5% از 180"
+      ]
+    },
+    "debrief": "چه درصدهایی محاسبه‌شان آسان است؟ (۵٪، ۱۰٪، ۲۵٪…)",
+    "deepen": "مقایسهٔ دو قیمت با دو درصد تخفیف متفاوت (تقریب ذهنی)."
+  },
+  "hints": {
+    "h1": "به اعشار/کسر تبدیل کن.",
+    "h2": "از درصدهای آسان شروع کن.",
+    "h3": "زنجیرهٔ ضربِ کسری بنویس."
+  },
+  "common_error": {
+    "description": "جابجایی اعشار بدون درک",
+    "correction": "ابتدا مدل ۱۰×۱۰ و سپس فرمول؛ چرایی را توضیح بده."
+  },
+  "materials": "برگهٔ جدول ۱۰×۱۰ یا رسم دستی."
+}
