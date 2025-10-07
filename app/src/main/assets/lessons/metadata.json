@@ -1,50 +1,31 @@
 {
   "schema": "zarmath.lesson.manifest.v1",
-  "generated_at": "2025-10-06",
+  "generated_at": "2025-10-07",
   "language": "fa",
   "rtl": true,
+  "content_version": "2025.10.07",
   "lessons": [
-    {
-      "lesson_id": "g1_ch1_l1",
-      "grade": 1,
-      "chapter_id": 1,
-      "title": "شمارش تا ۱۰ و جمعِ سازندهٔ ۱۰",
-      "file": "assets/lessons/grade1/ch1_lesson1.json"
-    },
-    {
-      "lesson_id": "g2_ch1_l1",
-      "grade": 2,
-      "chapter_id": 1,
-      "title": "جمعِ دو رقمی با انتقال",
-      "file": "assets/lessons/grade2/ch1_lesson1.json"
-    },
-    {
-      "lesson_id": "g3_ch1_l1",
-      "grade": 3,
-      "chapter_id": 1,
-      "title": "معنای ضرب: آرایه و گروه‌های برابر",
-      "file": "assets/lessons/grade3/ch1_lesson1.json"
-    },
-    {
-      "lesson_id": "g4_ch1_l1",
-      "grade": 4,
-      "chapter_id": 1,
-      "title": "کسرهای معادل و ارتباط با اعشار",
-      "file": "assets/lessons/grade4/ch1_lesson1.json"
-    },
-    {
-      "lesson_id": "g5_ch1_l1",
-      "grade": 5,
-      "chapter_id": 1,
-      "title": "درصدِ مقدار و ارتباط با کسر/اعشار",
-      "file": "assets/lessons/grade5/ch1_lesson1.json"
-    },
-    {
-      "lesson_id": "g6_ch1_l1",
-      "grade": 6,
-      "chapter_id": 1,
-      "title": "نسبت و تناسب (حل سریع و قابل‌توضیح)",
-      "file": "assets/lessons/grade6/ch1_lesson1.json"
-    }
-  ]
+    {"lesson_id": "g1_ch1_l1", "grade": 1, "chapter_id": 1, "title": "شمارش تا ۱۰ و جمع سازنده", "file": "assets/lessons/grade1/ch1_lesson1.json"},
+    {"lesson_id": "g1_ch2_l1", "grade": 1, "chapter_id": 2, "title": "جمع و تفریق تا ۲۰ با ساخت ده کامل", "file": "assets/lessons/grade1/ch2_lesson1.json"},
+    {"lesson_id": "g1_ch3_l1", "grade": 1, "chapter_id": 3, "title": "تفریق به عنوان مکمل جمع", "file": "assets/lessons/grade1/ch3_lesson1.json"},
+    {"lesson_id": "g1_ch4_l1", "grade": 1, "chapter_id": 4, "title": "الگوهای ساده و ادامه دنباله", "file": "assets/lessons/grade1/ch4_lesson1.json"},
+    {"lesson_id": "g1_ch5_l1", "grade": 1, "chapter_id": 5, "title": "شناخت اشکال پایه", "file": "assets/lessons/grade1/ch5_lesson1.json"},
+    {"lesson_id": "g1_ch6_l1", "grade": 1, "chapter_id": 6, "title": "اندازه‌گیری غیرمعیاری", "file": "assets/lessons/grade1/ch6_lesson1.json"},
+    {"lesson_id": "g1_ch7_l1", "grade": 1, "chapter_id": 7, "title": "زمان و پول مقدماتی", "file": "assets/lessons/grade1/ch7_lesson1.json"},
+    {"lesson_id": "g1_ch8_l1", "grade": 1, "chapter_id": 8, "title": "مرور بازی‌محور فصل‌ها", "file": "assets/lessons/grade1/ch8_lesson1.json"},
+    {"lesson_id": "g2_ch1_l1", "grade": 2, "chapter_id": 1, "title": "ارزش مکانی تا ۱۰۰۰", "file": "assets/lessons/grade2/ch1_lesson1.json"},
+    {"lesson_id": "g2_ch2_l1", "grade": 2, "chapter_id": 2, "title": "جمع و تفریق با انتقال", "file": "assets/lessons/grade2/ch2_lesson1.json"},
+    {"lesson_id": "g2_ch3_l1", "grade": 2, "chapter_id": 3, "title": "ضرب و تقسیم مقدماتی با ۲،۵،۱۰", "file": "assets/lessons/grade2/ch3_lesson1.json"},
+    {"lesson_id": "g2_ch4_l1", "grade": 2, "chapter_id": 4, "title": "کسرهای ساده", "file": "assets/lessons/grade2/ch4_lesson1.json"},
+    {"lesson_id": "g2_ch5_l1", "grade": 2, "chapter_id": 5, "title": "تقارن", "file": "assets/lessons/grade2/ch5_lesson1.json"},
+    {"lesson_id": "g2_ch6_l1", "grade": 2, "chapter_id": 6, "title": "واحدهای استاندارد و زمان", "file": "assets/lessons/grade2/ch6_lesson1.json"},
+    {"lesson_id": "g2_ch7_l1", "grade": 2, "chapter_id": 7, "title": "نمودار تصویری و میله‌ای", "file": "assets/lessons/grade2/ch7_lesson1.json"},
+    {"lesson_id": "g3_ch1_l1", "grade": 3, "chapter_id": 1, "title": "الگو و راهبرد حل مسئله", "file": "assets/lessons/grade3/ch1_lesson1.json"},
+    {"lesson_id": "g3_ch2_l1", "grade": 3, "chapter_id": 2, "title": "تقویت چهار عمل و ضرب ۱ تا ۱۰", "file": "assets/lessons/grade3/ch2_lesson1.json"},
+    {"lesson_id": "g3_ch3_l1", "grade": 3, "chapter_id": 3, "title": "کسرهای هم‌مخرج", "file": "assets/lessons/grade3/ch3_lesson1.json"},
+    {"lesson_id": "g4_ch1_l1", "grade": 4, "chapter_id": 1, "title": "کسرهای معادل و ارتباط با اعشار", "file": "assets/lessons/grade4/ch1_lesson1.json"},
+    {"lesson_id": "g5_ch1_l1", "grade": 5, "chapter_id": 1, "title": "درصدِ مقدار و ارتباط با کسر/اعشار", "file": "assets/lessons/grade5/ch1_lesson1.json"},
+    {"lesson_id": "g6_ch1_l1", "grade": 6, "chapter_id": 1, "title": "نسبت و تناسب", "file": "assets/lessons/grade6/ch1_lesson1.json"}
+  ],
+  "checksum": "auto-generated"
 }
